@@ -1,0 +1,532 @@
+[
+    {
+        "playerImg": "/images/players/virat-kohli.png",
+        "playerName": "Virat Kohli",
+        "country": "India",
+        "playertype": "Batsman",
+        "rating": 95,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm medium",
+        "price": 2000000
+    },
+    {
+        "playerImg": "/images/players/rohit-sharma.png",
+        "playerName": "Rohit Sharma",
+        "country": "India",
+        "playertype": "Batsman",
+        "rating": 93,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 1900000
+    },
+    {
+        "playerImg": "/images/players/jasprit-bumrah.png",
+        "playerName": "Jasprit Bumrah",
+        "country": "India",
+        "playertype": "Bowler",
+        "rating": 96,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm fast",
+        "price": 1950000
+    },
+    {
+        "playerImg": "/images/players/ravindra-jadeja.png",
+        "playerName": "Ravindra Jadeja",
+        "country": "India",
+        "playertype": "All-rounder",
+        "rating": 91,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Slow left-arm orthodox",
+        "price": 1700000
+    },
+    {
+        "playerImg": "/images/players/rishabh-pant.png",
+        "playerName": "Rishabh Pant",
+        "country": "India",
+        "playertype": "Wicketkeeper",
+        "rating": 89,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "None",
+        "price": 1600000
+    },
+    {
+        "playerImg": "/images/players/shubman-gill.png",
+        "playerName": "Shubman Gill",
+        "country": "India",
+        "playertype": "Batsman",
+        "rating": 90,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 1500000
+    },
+    {
+        "playerImg": "/images/players/hardik-pandya.png",
+        "playerName": "Hardik Pandya",
+        "country": "India",
+        "playertype": "All-rounder",
+        "rating": 88,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm fast-medium",
+        "price": 1650000
+    },
+    {
+        "playerImg": "/images/players/kuldeep-yadav.png",
+        "playerName": "Kuldeep Yadav",
+        "country": "India",
+        "playertype": "Bowler",
+        "rating": 87,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Left-arm wrist spin",
+        "price": 1100000
+    },
+    {
+        "playerImg": "/images/players/suryakumar-yadav.png",
+        "playerName": "Suryakumar Yadav",
+        "country": "India",
+        "playertype": "Batsman",
+        "rating": 91,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm medium",
+        "price": 1550000
+    },
+    {
+        "playerImg": "/images/players/mohammed-siraj.png",
+        "playerName": "Mohammed Siraj",
+        "country": "India",
+        "playertype": "Bowler",
+        "rating": 86,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm fast-medium",
+        "price": 1000000
+    },
+    {
+        "playerImg": "/images/players/steve-smith.png",
+        "playerName": "Steve Smith",
+        "country": "Australia",
+        "playertype": "Batsman",
+        "rating": 92,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm legbreak",
+        "price": 1800000
+    },
+    {
+        "playerImg": "/images/players/pat-cummins.png",
+        "playerName": "Pat Cummins",
+        "country": "Australia",
+        "playertype": "Bowler",
+        "rating": 92,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm fast",
+        "price": 1850000
+    },
+    {
+        "playerImg": "/images/players/travis-head.png",
+        "playerName": "Travis Head",
+        "country": "Australia",
+        "playertype": "Batsman",
+        "rating": 90,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 1450000
+    },
+    {
+        "playerImg": "/images/players/mitchell-starc.png",
+        "playerName": "Mitchell Starc",
+        "country": "Australia",
+        "playertype": "Bowler",
+        "rating": 90,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Left-arm fast",
+        "price": 1500000
+    },
+    {
+        "playerImg": "/images/players/glenn-maxwell.png",
+        "playerName": "Glenn Maxwell",
+        "country": "Australia",
+        "playertype": "All-rounder",
+        "rating": 87,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 1400000
+    },
+    {
+        "playerImg": "/images/players/david-warner.png",
+        "playerName": "David Warner",
+        "country": "Australia",
+        "playertype": "Batsman",
+        "rating": 88,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Right-arm legbreak",
+        "price": 1300000
+    },
+    {
+        "playerImg": "/images/players/alex-carey.png",
+        "playerName": "Alex Carey",
+        "country": "Australia",
+        "playertype": "Wicketkeeper",
+        "rating": 82,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "None",
+        "price": 800000
+    },
+    {
+        "playerImg": "/images/players/joe-root.png",
+        "playerName": "Joe Root",
+        "country": "England",
+        "playertype": "Batsman",
+        "rating": 94,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 1900000
+    },
+    {
+        "playerImg": "/images/players/ben-stokes.png",
+        "playerName": "Ben Stokes",
+        "country": "England",
+        "playertype": "All-rounder",
+        "rating": 93,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Right-arm fast-medium",
+        "price": 1950000
+    },
+    {
+        "playerImg": "/images/players/jos-buttler.png",
+        "playerName": "Jos Buttler",
+        "country": "England",
+        "playertype": "Wicketkeeper",
+        "rating": 90,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "None",
+        "price": 1600000
+    },
+    {
+        "playerImg": "/images/players/jofra-archer.png",
+        "playerName": "Jofra Archer",
+        "country": "England",
+        "playertype": "Bowler",
+        "rating": 88,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm fast",
+        "price": 1350000
+    },
+    {
+        "playerImg": "/images/players/harry-brook.png",
+        "playerName": "Harry Brook",
+        "country": "England",
+        "playertype": "Batsman",
+        "rating": 89,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm medium",
+        "price": 1400000
+    },
+    {
+        "playerImg": "/images/players/moeen-ali.png",
+        "playerName": "Moeen Ali",
+        "country": "England",
+        "playertype": "All-rounder",
+        "rating": 82,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 750000
+    },
+    {
+        "playerImg": "/images/players/kane-williamson.png",
+        "playerName": "Kane Williamson",
+        "country": "New Zealand",
+        "playertype": "Batsman",
+        "rating": 93,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 1750000
+    },
+    {
+        "playerImg": "/images/players/trent-boult.png",
+        "playerName": "Trent Boult",
+        "country": "New Zealand",
+        "playertype": "Bowler",
+        "rating": 90,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Left-arm fast-medium",
+        "price": 1400000
+    },
+    {
+        "playerImg": "/images/players/daryl-mitchell.png",
+        "playerName": "Daryl Mitchell",
+        "country": "New Zealand",
+        "playertype": "All-rounder",
+        "rating": 85,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm medium",
+        "price": 950000
+    },
+    {
+        "playerImg": "/images/players/devon-conway.png",
+        "playerName": "Devon Conway",
+        "country": "New Zealand",
+        "playertype": "Wicketkeeper",
+        "rating": 84,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Right-arm medium",
+        "price": 850000
+    },
+    {
+        "playerImg": "/images/players/babar-azam.png",
+        "playerName": "Babar Azam",
+        "country": "Pakistan",
+        "playertype": "Batsman",
+        "rating": 93,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 1850000
+    },
+    {
+        "playerImg": "/images/players/shaheen-afridi.png",
+        "playerName": "Shaheen Afridi",
+        "country": "Pakistan",
+        "playertype": "Bowler",
+        "rating": 90,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Left-arm fast",
+        "price": 1450000
+    },
+    {
+        "playerImg": "/images/players/mohammad-rizwan.png",
+        "playerName": "Mohammad Rizwan",
+        "country": "Pakistan",
+        "playertype": "Wicketkeeper",
+        "rating": 88,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "None",
+        "price": 1200000
+    },
+    {
+        "playerImg": "/images/players/shadab-khan.png",
+        "playerName": "Shadab Khan",
+        "country": "Pakistan",
+        "playertype": "All-rounder",
+        "rating": 83,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm legbreak",
+        "price": 900000
+    },
+    {
+        "playerImg": "/images/players/naseem-shah.png",
+        "playerName": "Naseem Shah",
+        "country": "Pakistan",
+        "playertype": "Bowler",
+        "rating": 84,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm fast",
+        "price": 850000
+    },
+    {
+        "playerImg": "/images/players/kagiso-rabada.png",
+        "playerName": "Kagiso Rabada",
+        "country": "South Africa",
+        "playertype": "Bowler",
+        "rating": 91,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Right-arm fast",
+        "price": 1600000
+    },
+    {
+        "playerImg": "/images/players/quinton-de-kock.png",
+        "playerName": "Quinton de Kock",
+        "country": "South Africa",
+        "playertype": "Wicketkeeper",
+        "rating": 89,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "None",
+        "price": 1450000
+    },
+    {
+        "playerImg": "/images/players/aiden-markram.png",
+        "playerName": "Aiden Markram",
+        "country": "South Africa",
+        "playertype": "Batsman",
+        "rating": 86,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 1100000
+    },
+    {
+        "playerImg": "/images/players/heinrich-klaasen.png",
+        "playerName": "Heinrich Klaasen",
+        "country": "South Africa",
+        "playertype": "Wicketkeeper",
+        "rating": 88,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 1350000
+    },
+    {
+        "playerImg": "/images/players/marco-jansen.png",
+        "playerName": "Marco Jansen",
+        "country": "South Africa",
+        "playertype": "All-rounder",
+        "rating": 84,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Left-arm fast",
+        "price": 900000
+    },
+    {
+        "playerImg": "/images/players/shakib-al-hasan.png",
+        "playerName": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "playertype": "All-rounder",
+        "rating": 90,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Slow left-arm orthodox",
+        "price": 1300000
+    },
+    {
+        "playerImg": "/images/players/mushfiqur-rahim.png",
+        "playerName": "Mushfiqur Rahim",
+        "country": "Bangladesh",
+        "playertype": "Wicketkeeper",
+        "rating": 84,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "None",
+        "price": 800000
+    },
+    {
+        "playerImg": "/images/players/mustafizur-rahman.png",
+        "playerName": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "playertype": "Bowler",
+        "rating": 86,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "Left-arm fast-medium",
+        "price": 1000000
+    },
+    {
+        "playerImg": "/images/players/tamim-iqbal.png",
+        "playerName": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "playertype": "Batsman",
+        "rating": 83,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "None",
+        "price": 750000
+    },
+    {
+        "playerImg": "/images/players/litton-das.png",
+        "playerName": "Litton Das",
+        "country": "Bangladesh",
+        "playertype": "Wicketkeeper",
+        "rating": 82,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "None",
+        "price": 700000
+    },
+    {
+        "playerImg": "/images/players/rashid-khan.png",
+        "playerName": "Rashid Khan",
+        "country": "Afghanistan",
+        "playertype": "Bowler",
+        "rating": 94,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm legbreak",
+        "price": 1800000
+    },
+    {
+        "playerImg": "/images/players/mohammad-nabi.png",
+        "playerName": "Mohammad Nabi",
+        "country": "Afghanistan",
+        "playertype": "All-rounder",
+        "rating": 82,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm offbreak",
+        "price": 700000
+    },
+    {
+        "playerImg": "/images/players/rahmanullah-gurbaz.png",
+        "playerName": "Rahmanullah Gurbaz",
+        "country": "Afghanistan",
+        "playertype": "Wicketkeeper",
+        "rating": 80,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "None",
+        "price": 600000
+    },
+    {
+        "playerImg": "/images/players/wanindu-hasaranga.png",
+        "playerName": "Wanindu Hasaranga",
+        "country": "Sri Lanka",
+        "playertype": "All-rounder",
+        "rating": 87,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm legbreak",
+        "price": 1150000
+    },
+    {
+        "playerImg": "/images/players/pathum-nissanka.png",
+        "playerName": "Pathum Nissanka",
+        "country": "Sri Lanka",
+        "playertype": "Batsman",
+        "rating": 84,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "None",
+        "price": 800000
+    },
+    {
+        "playerImg": "/images/players/matheesha-pathirana.png",
+        "playerName": "Matheesha Pathirana",
+        "country": "Sri Lanka",
+        "playertype": "Bowler",
+        "rating": 83,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm fast",
+        "price": 750000
+    },
+    {
+        "playerImg": "/images/players/kusal-mendis.png",
+        "playerName": "Kusal Mendis",
+        "country": "Sri Lanka",
+        "playertype": "Wicketkeeper",
+        "rating": 82,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "None",
+        "price": 700000
+    },
+    {
+        "playerImg": "/images/players/nicholas-pooran.png",
+        "playerName": "Nicholas Pooran",
+        "country": "West Indies",
+        "playertype": "Wicketkeeper",
+        "rating": 87,
+        "battingtype": "Left-hand bat",
+        "bowlingtype": "None",
+        "price": 1250000
+    },
+    {
+        "playerImg": "/images/players/andre-russell.png",
+        "playerName": "Andre Russell",
+        "country": "West Indies",
+        "playertype": "All-rounder",
+        "rating": 87,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm fast",
+        "price": 1300000
+    },
+    {
+        "playerImg": "/images/players/jason-holder.png",
+        "playerName": "Jason Holder",
+        "country": "West Indies",
+        "playertype": "All-rounder",
+        "rating": 83,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "Right-arm fast-medium",
+        "price": 800000
+    },
+    {
+        "playerImg": "/images/players/shai-hope.png",
+        "playerName": "Shai Hope",
+        "country": "West Indies",
+        "playertype": "Wicketkeeper",
+        "rating": 82,
+        "battingtype": "Right-hand bat",
+        "bowlingtype": "None",
+        "price": 650000
+    }
+]
