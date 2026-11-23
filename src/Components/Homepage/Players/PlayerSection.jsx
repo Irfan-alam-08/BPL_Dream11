@@ -5,7 +5,7 @@ import PlayersList from "./PlayersList";
 const PlayerSection = ({ playersPromise }) => {
     const players = use(playersPromise);
 return (
-    <div>
+    <div className="w-4/5 mx-auto">
         <Heading />
         <PlayersList players={players} />
     </div>

@@ -10,20 +10,20 @@ const Navbar = () => {
                 <div className="flex">
                     <ul className="flex gap-8 items-center justify-center">
                         <li>
-                            <a className="text-md font-semibold cursor-pointer btn-ghost btn hover:bg-[#E7FE29] active:scale-98">Home</a>
+                            <a className="text-md font-semibold cursor-pointer btn-ghost btn hover:bg-[#E7FE29] active:scale-98 transition-all duration-200">Home</a>
                         </li>
                         <li>
-                            <a className="text-md font-semibold cursor-pointer btn-ghost btn hover:bg-[#E7FE29] active:scale-98">Fixture</a>
+                            <a className="text-md font-semibold cursor-pointer btn-ghost btn hover:bg-[#E7FE29] active:scale-98 transition-all duration-200">Fixture</a>
                         </li>
                         <li>
-                            <a className="text-md font-semibold cursor-pointer btn-ghost btn hover:bg-[#E7FE29] active:scale-98">Teams</a>
+                            <a className="text-md font-semibold cursor-pointer btn-ghost btn hover:bg-[#E7FE29] active:scale-98 transition-all duration-200">Teams</a>
                         </li>
                         <li>
-                            <a className="text-md font-semibold cursor-pointer btn-ghost btn hover:bg-[#E7FE29] active:scale-98">Schedules</a>
+                            <a className="text-md font-semibold cursor-pointer btn-ghost btn hover:bg-[#E7FE29] active:scale-98 transition-all duration-200">Schedules</a>
                         </li>
                     </ul>
                 </div>
-                <button className="flex items-center gap-2 btn btn-ghost text-xl">
+                <button className="flex items-center gap-2 btn btn-ghost text-xl cursor-pointer hover:bg-gray-200 hover:scale-120 active:scale-98 transition-all duration-300">
                     0 coins
                     <img src={currencyimg} alt="Currency" />
                 </button>
