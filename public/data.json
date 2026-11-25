@@ -1,5 +1,6 @@
 [
-    {
+    {   
+        "id": 1,
         "playerImg": "/images/players/virat-kohli.png",
         "playerName": "Virat Kohli",
         "country": "India",
@@ -10,6 +11,7 @@
         "price": 2000000
     },
     {
+        "id": 2,
         "playerImg": "/images/players/rohit-sharma.png",
         "playerName": "Rohit Sharma",
         "country": "India",
@@ -20,6 +22,7 @@
         "price": 1900000
     },
     {
+        "id": 3,
         "playerImg": "/images/players/jasprit-bumrah.png",
         "playerName": "Jasprit Bumrah",
         "country": "India",
@@ -30,6 +33,7 @@
         "price": 1950000
     },
     {
+        "id": 4,
         "playerImg": "/images/players/ravindra-jadeja.png",
         "playerName": "Ravindra Jadeja",
         "country": "India",
@@ -40,6 +44,7 @@
         "price": 1700000
     },
     {
+        "id": 5,
         "playerImg": "/images/players/rishabh-pant.png",
         "playerName": "Rishabh Pant",
         "country": "India",
@@ -50,6 +55,7 @@
         "price": 1600000
     },
     {
+        "id": 6,
         "playerImg": "/images/players/shubman-gill.png",
         "playerName": "Shubman Gill",
         "country": "India",
@@ -60,6 +66,7 @@
         "price": 1500000
     },
     {
+        "id": 7,
         "playerImg": "/images/players/hardik-pandya.png",
         "playerName": "Hardik Pandya",
         "country": "India",
@@ -70,6 +77,7 @@
         "price": 1650000
     },
     {
+        "id": 8,
         "playerImg": "/images/players/kuldeep-yadav.png",
         "playerName": "Kuldeep Yadav",
         "country": "India",
@@ -80,6 +88,7 @@
         "price": 1100000
     },
     {
+        "id": 9,
         "playerImg": "/images/players/suryakumar-yadav.png",
         "playerName": "Suryakumar Yadav",
         "country": "India",
@@ -90,6 +99,7 @@
         "price": 1550000
     },
     {
+        "id": 10,
         "playerImg": "/images/players/mohammed-siraj.png",
         "playerName": "Mohammed Siraj",
         "country": "India",
@@ -100,6 +110,7 @@
         "price": 1000000
     },
     {
+        "id": 11,
         "playerImg": "/images/players/steve-smith.png",
         "playerName": "Steve Smith",
         "country": "Australia",
@@ -110,6 +121,7 @@
         "price": 1800000
     },
     {
+        "id": 12,
         "playerImg": "/images/players/pat-cummins.png",
         "playerName": "Pat Cummins",
         "country": "Australia",
@@ -120,6 +132,7 @@
         "price": 1850000
     },
     {
+        "id": 13,
         "playerImg": "/images/players/travis-head.png",
         "playerName": "Travis Head",
         "country": "Australia",
@@ -130,6 +143,7 @@
         "price": 1450000
     },
     {
+        "id": 14,
         "playerImg": "/images/players/mitchell-starc.png",
         "playerName": "Mitchell Starc",
         "country": "Australia",
@@ -139,7 +153,8 @@
         "bowlingtype": "Left-arm fast",
         "price": 1500000
     },
-    {
+    {   
+        "id": 15,
         "playerImg": "/images/players/glenn-maxwell.png",
         "playerName": "Glenn Maxwell",
         "country": "Australia",
@@ -150,6 +165,7 @@
         "price": 1400000
     },
     {
+        "id": 16,
         "playerImg": "/images/players/david-warner.png",
         "playerName": "David Warner",
         "country": "Australia",
@@ -160,6 +176,7 @@
         "price": 1300000
     },
     {
+        "id": 17,
         "playerImg": "/images/players/alex-carey.png",
         "playerName": "Alex Carey",
         "country": "Australia",
@@ -169,7 +186,8 @@
         "bowlingtype": "None",
         "price": 800000
     },
-    {
+    {   
+        "id": 18,
         "playerImg": "/images/players/joe-root.png",
         "playerName": "Joe Root",
         "country": "England",
@@ -179,7 +197,8 @@
         "bowlingtype": "Right-arm offbreak",
         "price": 1900000
     },
-    {
+    {   
+        "id": 19,
         "playerImg": "/images/players/ben-stokes.png",
         "playerName": "Ben Stokes",
         "country": "England",
@@ -190,6 +209,7 @@
         "price": 1950000
     },
     {
+        "id": 20,
         "playerImg": "/images/players/jos-buttler.png",
         "playerName": "Jos Buttler",
         "country": "England",
@@ -199,7 +219,8 @@
         "bowlingtype": "None",
         "price": 1600000
     },
-    {
+    {   
+        "id": 21,
         "playerImg": "/images/players/jofra-archer.png",
         "playerName": "Jofra Archer",
         "country": "England",
@@ -209,7 +230,8 @@
         "bowlingtype": "Right-arm fast",
         "price": 1350000
     },
-    {
+    {   
+        "id": 22,
         "playerImg": "/images/players/harry-brook.png",
         "playerName": "Harry Brook",
         "country": "England",
@@ -219,7 +241,8 @@
         "bowlingtype": "Right-arm medium",
         "price": 1400000
     },
-    {
+    {   
+        "id": 23,
         "playerImg": "/images/players/moeen-ali.png",
         "playerName": "Moeen Ali",
         "country": "England",
@@ -229,7 +252,8 @@
         "bowlingtype": "Right-arm offbreak",
         "price": 750000
     },
-    {
+    {   
+        "id": 24,
         "playerImg": "/images/players/kane-williamson.png",
         "playerName": "Kane Williamson",
         "country": "New Zealand",
@@ -240,6 +264,7 @@
         "price": 1750000
     },
     {
+        "id": 25,
         "playerImg": "/images/players/trent-boult.png",
         "playerName": "Trent Boult",
         "country": "New Zealand",
@@ -250,6 +275,7 @@
         "price": 1400000
     },
     {
+        "id": 26,
         "playerImg": "/images/players/daryl-mitchell.png",
         "playerName": "Daryl Mitchell",
         "country": "New Zealand",
@@ -259,7 +285,8 @@
         "bowlingtype": "Right-arm medium",
         "price": 950000
     },
-    {
+    {   
+        "id": 27,
         "playerImg": "/images/players/devon-conway.png",
         "playerName": "Devon Conway",
         "country": "New Zealand",
@@ -269,7 +296,8 @@
         "bowlingtype": "Right-arm medium",
         "price": 850000
     },
-    {
+    {   
+        "id": 28,
         "playerImg": "/images/players/babar-azam.png",
         "playerName": "Babar Azam",
         "country": "Pakistan",
@@ -279,7 +307,8 @@
         "bowlingtype": "Right-arm offbreak",
         "price": 1850000
     },
-    {
+    {   
+        "id": 29,
         "playerImg": "/images/players/shaheen-afridi.png",
         "playerName": "Shaheen Afridi",
         "country": "Pakistan",
@@ -289,7 +318,8 @@
         "bowlingtype": "Left-arm fast",
         "price": 1450000
     },
-    {
+    {   
+        "id": 30,
         "playerImg": "/images/players/mohammad-rizwan.png",
         "playerName": "Mohammad Rizwan",
         "country": "Pakistan",
@@ -299,7 +329,8 @@
         "bowlingtype": "None",
         "price": 1200000
     },
-    {
+    {   
+        "id": 31,
         "playerImg": "/images/players/shadab-khan.png",
         "playerName": "Shadab Khan",
         "country": "Pakistan",
@@ -309,7 +340,8 @@
         "bowlingtype": "Right-arm legbreak",
         "price": 900000
     },
-    {
+    {   
+        "id": 32,
         "playerImg": "/images/players/naseem-shah.png",
         "playerName": "Naseem Shah",
         "country": "Pakistan",
@@ -319,7 +351,8 @@
         "bowlingtype": "Right-arm fast",
         "price": 850000
     },
-    {
+    {   
+        "id": 33,
         "playerImg": "/images/players/kagiso-rabada.png",
         "playerName": "Kagiso Rabada",
         "country": "South Africa",
@@ -329,7 +362,8 @@
         "bowlingtype": "Right-arm fast",
         "price": 1600000
     },
-    {
+    {   
+        "id": 34,
         "playerImg": "/images/players/quinton-de-kock.png",
         "playerName": "Quinton de Kock",
         "country": "South Africa",
@@ -339,7 +373,8 @@
         "bowlingtype": "None",
         "price": 1450000
     },
-    {
+    {   
+        "id": 35,
         "playerImg": "/images/players/aiden-markram.png",
         "playerName": "Aiden Markram",
         "country": "South Africa",
@@ -349,7 +384,8 @@
         "bowlingtype": "Right-arm offbreak",
         "price": 1100000
     },
-    {
+    {   
+        "id": 36,
         "playerImg": "/images/players/heinrich-klaasen.png",
         "playerName": "Heinrich Klaasen",
         "country": "South Africa",
@@ -359,7 +395,8 @@
         "bowlingtype": "Right-arm offbreak",
         "price": 1350000
     },
-    {
+    {   
+        "id": 37,
         "playerImg": "/images/players/marco-jansen.png",
         "playerName": "Marco Jansen",
         "country": "South Africa",
@@ -369,7 +406,8 @@
         "bowlingtype": "Left-arm fast",
         "price": 900000
     },
-    {
+    {   
+        "id": 38,
         "playerImg": "/images/players/shakib-al-hasan.png",
         "playerName": "Shakib Al Hasan",
         "country": "Bangladesh",
@@ -379,7 +417,8 @@
         "bowlingtype": "Slow left-arm orthodox",
         "price": 1300000
     },
-    {
+    {   
+        "id": 39,
         "playerImg": "/images/players/mushfiqur-rahim.png",
         "playerName": "Mushfiqur Rahim",
         "country": "Bangladesh",
@@ -389,7 +428,8 @@
         "bowlingtype": "None",
         "price": 800000
     },
-    {
+    {   
+        "id": 40,
         "playerImg": "/images/players/mustafizur-rahman.png",
         "playerName": "Mustafizur Rahman",
         "country": "Bangladesh",
@@ -399,7 +439,8 @@
         "bowlingtype": "Left-arm fast-medium",
         "price": 1000000
     },
-    {
+    {   
+        "id": 41,
         "playerImg": "/images/players/tamim-iqbal.png",
         "playerName": "Tamim Iqbal",
         "country": "Bangladesh",
@@ -409,7 +450,8 @@
         "bowlingtype": "None",
         "price": 750000
     },
-    {
+    {   
+        "id": 42,
         "playerImg": "/images/players/litton-das.png",
         "playerName": "Litton Das",
         "country": "Bangladesh",
@@ -419,7 +461,8 @@
         "bowlingtype": "None",
         "price": 700000
     },
-    {
+    {   
+        "id": 43,
         "playerImg": "/images/players/rashid-khan.png",
         "playerName": "Rashid Khan",
         "country": "Afghanistan",
@@ -429,7 +472,8 @@
         "bowlingtype": "Right-arm legbreak",
         "price": 1800000
     },
-    {
+    {   
+        "id": 44,
         "playerImg": "/images/players/mohammad-nabi.png",
         "playerName": "Mohammad Nabi",
         "country": "Afghanistan",
@@ -439,7 +483,8 @@
         "bowlingtype": "Right-arm offbreak",
         "price": 700000
     },
-    {
+    {   
+        "id": 45,
         "playerImg": "/images/players/rahmanullah-gurbaz.png",
         "playerName": "Rahmanullah Gurbaz",
         "country": "Afghanistan",
@@ -449,7 +494,8 @@
         "bowlingtype": "None",
         "price": 600000
     },
-    {
+    {   
+        "id": 46,
         "playerImg": "/images/players/wanindu-hasaranga.png",
         "playerName": "Wanindu Hasaranga",
         "country": "Sri Lanka",
@@ -459,7 +505,8 @@
         "bowlingtype": "Right-arm legbreak",
         "price": 1150000
     },
-    {
+    {   
+        "id": 47,
         "playerImg": "/images/players/pathum-nissanka.png",
         "playerName": "Pathum Nissanka",
         "country": "Sri Lanka",
@@ -469,7 +516,8 @@
         "bowlingtype": "None",
         "price": 800000
     },
-    {
+    {   
+        "id": 48,
         "playerImg": "/images/players/matheesha-pathirana.png",
         "playerName": "Matheesha Pathirana",
         "country": "Sri Lanka",
@@ -479,7 +527,8 @@
         "bowlingtype": "Right-arm fast",
         "price": 750000
     },
-    {
+    {   
+        "id": 49,
         "playerImg": "/images/players/kusal-mendis.png",
         "playerName": "Kusal Mendis",
         "country": "Sri Lanka",
@@ -489,7 +538,8 @@
         "bowlingtype": "None",
         "price": 700000
     },
-    {
+    {   
+        "id": 50,
         "playerImg": "/images/players/nicholas-pooran.png",
         "playerName": "Nicholas Pooran",
         "country": "West Indies",
@@ -499,7 +549,8 @@
         "bowlingtype": "None",
         "price": 1250000
     },
-    {
+    {   
+        "id": 51,
         "playerImg": "/images/players/andre-russell.png",
         "playerName": "Andre Russell",
         "country": "West Indies",
@@ -509,7 +560,8 @@
         "bowlingtype": "Right-arm fast",
         "price": 1300000
     },
-    {
+    {   
+        "id": 52,
         "playerImg": "/images/players/jason-holder.png",
         "playerName": "Jason Holder",
         "country": "West Indies",
@@ -519,7 +571,8 @@
         "bowlingtype": "Right-arm fast-medium",
         "price": 800000
     },
-    {
+    {   
+        "id": 53,
         "playerImg": "/images/players/shai-hope.png",
         "playerName": "Shai Hope",
         "country": "West Indies",

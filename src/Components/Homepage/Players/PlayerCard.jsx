@@ -1,7 +1,10 @@
 import { ShieldUser } from "lucide-react";
 import { Image } from "lucide-react";
 import { Flag } from "lucide-react";
-const PlayerCard = ({ playerName, country, playertype, rating, battingtype, bowlingtype, price }) => {
+const PlayerCard = ({ playerName, country, playertype, rating, battingtype, bowlingtype, price, onChoose, player, isSelected, onRemove, activeTab }) => {
+
+    const isSelectedTab = activeTab === "Selected";
+
 return (
 
     <div className="flex flex-col gap-2 border-2 border-gray-200 rounded-2xl p-4">
@@ -32,9 +35,19 @@ return (
         </div>
         <div className="flex items-center justify-between">
             <p className="text-md font-semibold text-gray-600">Price: ${price}</p>
-            <button className="bg-gray-200 hover:bg-[#E7FE29] py-2 px-3 rounded-xl cursor-pointer hover:scale-103 active:scale-99 transition-all duration-200">
-                <p className="text-md font-semibold text-gray-600">Choose Player</p>
+
+            {isSelectedTab ? (
+        // Selected tab: click korle remove hobe, button disable hobe na
+        <button
+            onClick={() => onRemove(player.id)}
+                className="px-4 py-2 rounded-xl bg-red-500 text-white cursor-pointer hover:scale-103 active:scale-99 transition-all duration-200">Remove
+        </button>
+    ) : (
+        // Available tab: selected hole disable
+        <button disabled={isSelected} onClick={() => onChoose(player)} className={`py-2 px-3 rounded-xl hover:scale-103 active:scale-99 transition-all duration-200 ${isSelected ? 'bg-[#E7FE29] cursor-not-allowed' : 'bg-gray-200 cursor-pointer'}`}>
+                <p className="text-md font-semibold text-gray-600">{isSelected ? 'Selected' : 'Choose Player'}</p>
             </button>
+    )}
         </div>
     </div>
 )
